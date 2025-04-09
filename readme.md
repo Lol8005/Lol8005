@@ -7,6 +7,6 @@ I'm a passionate developer. I enjoy building clean, efficient, and scalable appl
 - **Database**: MySQL, Firebase
 
 ## 📈 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lol8005&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-pi-bice.vercel.app?user=Lol8005&theme=vue-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
