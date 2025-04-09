@@ -9,4 +9,4 @@ I'm a passionate developer. I enjoy building clean, efficient, and scalable appl
 ## 📈 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-pi-bice.vercel.app?user=Lol8005&theme=vue-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-streak-stats-git-main-lol8005s-projects.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
