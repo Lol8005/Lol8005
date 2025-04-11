@@ -1,4 +1,4 @@
-I'm a passionate developer. I enjoy building clean, efficient, and scalable applications, and I'm always eager to learn new things.
+Hello, developer👋. I'm a passionate developer. I enjoy building clean, efficient, and scalable applications, and I'm always eager to learn new things.
 
 ## 🔧 Technologies & Tools:
 **Languages**   
@@ -12,7 +12,7 @@ I'm a passionate developer. I enjoy building clean, efficient, and scalable appl
 <img src='assets/java.png' alt='java' height='40'>
 <img src='assets/c-.png' alt='c++' height='40'>
 
-**Tools**   
+**Framework/Libraries**   
 <img src='assets/reactNative.png' alt='react native' height='40'>
 <img src='assets/flask.png' alt='flask' height='40'>
 <img src='assets/NodeJS.png' alt='nodejs' height='40'>
