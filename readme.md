@@ -1,11 +1,6 @@
 I'm a passionate developer. I enjoy building clean, efficient, and scalable applications, and I'm always eager to learn new things.
 
 ## 🔧 Technologies & Tools:
-- **Languages**: JavaScript, Python, HTML/CSS, PHP, Kotlin, C#, Java, C++
-- **Frameworks/Libraries**: React Native, Flask, Node.js, OpenCV
-- **Tools**: Git, Docker, AWS, Google Compute Engine, Unity3D
-- **Database**: MySQL, Firebase
-
 **Languages**   
 <img src='assets/js.png' alt='js' height='40'>
 <img src='assets/python.png' alt='python' height='40'>
@@ -22,6 +17,10 @@ I'm a passionate developer. I enjoy building clean, efficient, and scalable appl
 <img src='assets/flask.png' alt='flask' height='40'>
 <img src='assets/NodeJS.png' alt='nodejs' height='40'>
 <img src='assets/OpenCV.png' alt='opencv' height='40'>
+
+**Tools**: Git, Docker, AWS, Google Compute Engine, Unity3D   
+   
+**Database**: MySQL, Firebase
 
 
 ## 📈 GitHub Stats:
